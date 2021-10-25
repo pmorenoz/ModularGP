@@ -1,2 +1,2 @@
 # ModularGP
-Modular Gaussian Processes 
+Modular Gaussian Processes for Transfer Learning
