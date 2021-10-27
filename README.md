@@ -1,6 +1,6 @@
 # Modular Gaussian Processes for Transfer Learning
 
-<img src="/extra/modular_gp_header.png" width=800>
+<img src="/extra/modular_gp_header.png" width=1000>
 
 ## 🧩 Introduction
 
