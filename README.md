@@ -1,4 +1,4 @@
-# Modular Gaussian Processes for Transfer Learning
+# Modular Gaussian Processes<br> for Transfer Learning
 
 <img src="/extra/modular_gp_logo.png" width=1000>
 
