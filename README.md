@@ -2,7 +2,7 @@
 
 <img src="/extra/modular_gp_logo.png" width=1000>
 
-🚨🚨🚨(UNDER CONSTRUCTION / ⏳ FINAL VERSION TO BE READY BEFORE NEURIPS 2021 ⏳ )🚨🚨🚨
+🚨🚨🚨  (UNDER CONSTRUCTION / ⏳ FINAL VERSION TO BE READY **BEFORE** NEURIPS 2021 ⏳ ) 🚨🚨🚨
 
 ## 🧩 Introduction
 
